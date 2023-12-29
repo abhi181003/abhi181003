@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm currently a second-semester student pursuing a
 
 ## Get in Touch
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-abhishek-295608253/))
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-abhishek-295608253/)
 - 📧 Drop me an email at [abhi18102003@gmail.com](mailto:abhi18102003@gmail.com)
 - 🌐 Visit my [personal portfolio website](https://abhi181003.github.io/Personal-Portfolio/)
 
