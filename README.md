@@ -2,10 +2,10 @@
 
 I'm Abhishek Aggarwal
 
-🎓 Computer Programming Diploma Student - 3nd Semester
+🎓 Computer Programming Diploma Student - 4nd Semester
 🏫 Algonquin College, Ottawa
 
-Welcome to my GitHub profile! I'm currently a third-semester student pursuing a Computer Programming Diploma at Algonquin College in Ottawa. My passion for technology and programming drives me to explore and learn more about the ever-evolving world of software development.
+Welcome to my GitHub profile! I'm currently a fourth-semester student pursuing a Computer Programming Diploma at Algonquin College in Ottawa. My passion for technology and programming drives me to explore and learn more about the ever-evolving world of software development.
 
 ## About Me
 
@@ -17,9 +17,8 @@ Welcome to my GitHub profile! I'm currently a third-semester student pursuing a 
 
 ## Get in Touch
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-abhishek-295608253/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-aggarwal-295608253/)
 - 📧 Drop me an email at [abhi18102003@gmail.com](mailto:abhi18102003@gmail.com)
-- 🌐 Visit my [personal portfolio website](https://abhi181003.github.io/Personal-Portfolio/)
 
 Feel free to explore my projects and repositories, and don't hesitate to reach out if you'd like to collaborate or have a chat about anything related to programming or technology. Let's code the future together! 🚀
 
